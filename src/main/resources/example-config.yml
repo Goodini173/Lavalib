@@ -1,0 +1,14 @@
+messages:
+  message1:
+    type: ACTION_BAR
+    message: Action bar!
+  message2:
+    type: MESSAGE
+    message: Chat message!
+  message3:
+    type: TITLE
+    title: Title!
+    subtitle: Subtitle!
+    fade-in: 20
+    stay: 20
+    fade-out: 20

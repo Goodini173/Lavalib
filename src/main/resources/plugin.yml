@@ -1,0 +1,11 @@
+name: Lavalib
+version: '${version}'
+main: com.lavamen.lavalib.Lavalib
+authors: [ Lavamen ]
+website: https://github.com/Goodini173
+commands:
+  lavalib:
+    permission: lavalib.command.example
+permissions:
+  lavalib.command.example:
+    description: Allows player to use lavalib example command
